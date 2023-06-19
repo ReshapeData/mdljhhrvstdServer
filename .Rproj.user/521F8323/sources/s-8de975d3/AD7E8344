@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1686711485476.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AD7E8344",
+    "lastKnownWriteTime" : 1686711436,
+    "last_content_update" : 1686711436,
+    "path" : "~/app/zzy/jhhrvsqlquery/jhhrvstd/mdljhhrvstdServer/R/jhhrvstdsocialsecurityserver.R",
+    "project_path" : "R/jhhrvstdsocialsecurityserver.R",
+    "properties" : {
+        "cursorPosition" : "13,24",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
