@@ -15,13 +15,13 @@ viewsocialsecurityserver <- function(input,output,session,dms_token) {
 
   
   shiny::observe({
-    shiny::observeEvent(input$btn_view_socialsecurity,
+    shiny::observeEvent(input$btn_hrv_std_view_socialsecurity,
                         {
                             sql = 'select * from rds_hrv_std_ds_socialsecurity'
                             
                             data = tsda::sql_select2(token = dms_token, sql = sql)
                             #显示数据
-                            tsui::run_dataTable2(id = 'view_data_socialsecurity', data = data)
+                            tsui::run_dataTable2(id = 'hrv_std_view_data_socialsecurity', data = data)
                             
                             
                  
